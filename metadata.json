@@ -1,0 +1,6 @@
+{
+  "name": "北齐壁画博物馆",
+  "description": "北齐壁画博物馆沉浸式叙事闯关网页：在三门圆厅中探索徐显秀墓、娄睿墓、九原岗墓，收集四朵转生莲花，唤醒三生莲神女神鸟，越肩归墓修复壁画。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
